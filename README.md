@@ -46,7 +46,7 @@ journey
 ```
 
 Git graph:
-```
+```mermaid
 gitGraph
     commit
     commit
